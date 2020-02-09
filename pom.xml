@@ -799,6 +799,8 @@
         <module>addons/impala-hook-api</module>
         <module>addons/impala-bridge-shim</module>
         <module>addons/impala-bridge</module>
+        <module>addons/flink-bridge</module>
+        <module>addons/flink-bridge-shim</module>
 
         <module>distro</module>
     </modules>
